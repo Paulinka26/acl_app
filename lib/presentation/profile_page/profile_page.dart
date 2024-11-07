@@ -134,7 +134,14 @@ class _ProfilePageState extends State<ProfilePage> {
                           style: theme.textTheme.titleMedium,
                         ),
                         SizedBox(height: 18.h),
-                        _buildNotificationsColumn(context),
+                        _buildNotificatcd C:\Users\pauli\acl_application
+                        git init
+                        git add .
+                        git commit -m "Pierwszy commit - dodanie istniejącego projektu"
+                        git remote add origin https://github.com/Paulinka26/acl_app.git
+                        git branch -M main
+                        git push -u origin main
+                        ionsColumn(context),
                         Center(
                           child: CustomElevatedButton(
                             height: 40.h,
